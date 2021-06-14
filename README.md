@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ajaycc17
-- 👀 I’m interested in Machine Learning and Data Science.
+- 👋 Hi, I’m <a href="https://orbitgadget.com/">Ajay Choudhury</a>🧑
 - 🌱 I’m currently an EECS Undergrad at IISER Bhopal.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me <a href="https://twitter.com/ajaycc17">@ajaycc17</a>
+- 👀 I’m a keen learner of&nbsp;&nbsp;<img src="https://emoji.gg/assets/emoji/1887_python.png" width="20px" height="20px" alt="python">&nbsp;&nbsp;<img style="display: inline-block; vertical-align: center;" alt="C++" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"/>&nbsp;&nbsp;<img alt="C" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png"/>&nbsp;&nbsp;<img alt="HTML" width="20px" src="https://www.pngrepo.com/png/183637/512/html5.png"/>&nbsp;&nbsp;<img alt="CSS" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Devicon-css3-plain.svg/2048px-Devicon-css3-plain.svg.png"/>&nbsp;&nbsp;<img alt="JavaScript" width="20px" src="https://www.svgrepo.com/show/303206/javascript-logo.svg"/>&nbsp;&nbsp;<img alt="Bootstrap" width="20px" src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg"/>&nbsp;&nbsp;<img alt="tailwindcss" width="20px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/>
+- ⚙️ I use tools including&nbsp;&nbsp;<img style="display: inline-block; vertical-align: center;" alt="Bash" width="20px" src="https://orion42.net/wp-content/uploads/2019/10/full_colored_dark_green42.png"/>&nbsp;&nbsp;<img alt="Ubuntu" width="20px" src="https://brandslogos.com/wp-content/uploads/thumbs/ubuntu-logo-vector.svg"/>&nbsp;&nbsp;<img alt="Git" width="20px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>&nbsp;&nbsp;<img alt="Visual Studio" width="20px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"/>&nbsp;&nbsp;<img alt="GitHub" width="20px" src="https://www.pngrepo.com/png/217753/180/github.png"/>
 
 <!---
 ajaycc17/ajaycc17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
