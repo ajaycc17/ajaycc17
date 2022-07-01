@@ -1,6 +1,6 @@
 #### Hi There!👋
 - 👋 I’m <strong>Ajay Choudhury</strong>.
-- 🌱 I’m currently a final year EECS Undergrad at IISER Bhopal.
+- 🌱 I’m currently a final year MS student in EECS at IISER Bhopal.
 - 🔭 I'm currently working on cryptography, machine learning and web development.
 - ⌛ Reach me on <a href="https://linkedin.com/in/ajaycc17">LinekdIn</a>.
 - 👩🏾‍💻 You can read some of my works <a href="https://orbitgadget.com/">here</a> and follow me on <a href="https://twitter.com/ajaycc17">Twitter</a>.
