@@ -2,7 +2,7 @@
 - 👋 I’m <strong>Ajay Choudhury</strong>.
 - 🌱 I’m currently a final year MS student in EECS at IISER Bhopal.
 - 🔭 I'm currently working on cryptography, machine learning and web development.
-- ⌛ Reach me on <a href="https://linkedin.com/in/ajaycc17">LinekdIn</a>.
+- ⌛ Reach me on <a href="https://linkedin.com/in/ajaycc17">LinkedIn</a>.
 - 👩🏾‍💻 You can read some of my works <a href="https://ajaycc17.github.io/">here</a> and follow me on <a href="https://twitter.com/ajaycc17">Twitter</a>.
 
 <!---
