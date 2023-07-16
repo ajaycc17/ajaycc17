@@ -1,6 +1,6 @@
 #### Hi There!👋
 - 👋 I’m <strong>Ajay Choudhury</strong>.
-- 🎓 I’m a BS-MS graduate in Electrical Engineering & Computer Science(major) and Data Science & Engineering(minor) from IISER Bhopal.
+- 🎓 I’m a BS-MS graduate in Electrical Engg. & Computer Science(major) and Data Science & Engg.(minor) from IISER Bhopal.
 - 🔭 I'm currently looking for SDE/SWE roles/internships.
 - 👩🏾‍💻 I'm interested in full stack development.
 - ⌛ Reach me on <a href="https://linkedin.com/in/ajaycc17">LinkedIn</a>.
