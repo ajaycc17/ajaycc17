@@ -1,5 +1,6 @@
 #### Hi There!👋
 - 👋 I’m <strong>Ajay Choudhury</strong>.
+- 👨‍💻 Currently an SWE intern at Dezerv.
 - 🎓 I’m an M.Tech student in CSE at IIT Kharagpur.
 - 🎓 I’m a BS-MS graduate in Electrical Engg. & Computer Science(major) and Data Science & Engg.(minor) from IISER Bhopal.
 - 🔭 I'm currently looking for SDE/SWE roles/internships.
